@@ -25,6 +25,7 @@ Step 1: 22
 Step 2: 4
 
 Total amount of steps:
+
 2
 
 

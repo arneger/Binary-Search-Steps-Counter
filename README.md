@@ -19,7 +19,9 @@ Goal value: 4
 Array length: 9
 
 Steps to find goal value:
+
 Step 1: 22
+
 Step 2: 4
 
 Total amount of steps:

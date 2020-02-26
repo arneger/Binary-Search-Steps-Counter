@@ -15,6 +15,7 @@ An int goal value: 4
 
 #### Output:
 Goal value: 4
+
 Array length: 9
 
 Steps to find goal value:

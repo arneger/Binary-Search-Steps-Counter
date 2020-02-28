@@ -7,7 +7,7 @@ The function got two parameters, which is an int array and an int goal value.
 The arguments are given inside the Main method. There's comments inside the main method that explains
 how to use the code. 
 
-### Example of input and output
+### Input and Output Example
 #### Input:
 An int array: {1,7,4,20,50,66,88,30,22}
 

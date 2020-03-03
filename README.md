@@ -4,7 +4,7 @@ Program.cs contains a binary search method that let's you check how many steps
 it take to find a goal value inside an array by using binary search. This method is only for int arrays.
 
 The method got two parameters, which is an int array and an int goal value.
-The arguments are given inside the Main method. There's comments inside the main method that explains
+The arguments are given to the binary search method inside the Main method. There's comments inside the main method that explains
 how to use the code. 
 
 ### Input and Output Example
